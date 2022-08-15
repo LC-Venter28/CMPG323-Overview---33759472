@@ -1,13 +1,19 @@
-# CMPG323-Overview-33759472
+# CMPG323-Overview-33759472:
+
+# Repositories used
 
 
 
-# Branching Strategy
+# Project/Repository Diagram
 
 
 
-# Use of .gitignore
+# Branching Strategy:
 
 
 
-# Storage of Credentials
+# Use of .gitignore:
+
+ Every project we are working on has sensitive information that cannot be accessed from the public. Therefore, we will use the .gitignore to ignore these sensitive files when adding to the repositories.
+
+# Storage of Credentials:
