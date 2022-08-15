@@ -21,3 +21,9 @@
  Every project we are working on has sensitive information that cannot be accessed from the public. Therefore, we will use the .gitignore to ignore these sensitive files when adding to the repositories.
 
 ## __Storage of Credentials:__
+
+ As for the storage of credentials I plan on adding most of my personal credentials to the .gitignore for security reasons.
+
+## __Refrence List__
+ 
+ This is where I plan to add all the refrences I used in order to complete all of the tasks I need to.
