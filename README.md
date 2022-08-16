@@ -6,11 +6,12 @@
 
 ## __Project/Repository Diagram:__
 
-
+ ![](ProjectDiagram323.jpg)
 
 ## __Branching Strategy:__
 
  During this project I will make use of 2 branches.
+ The main will be used when I have finished certain aspects of the Projects in the Develop branch.
  
  * *Main*
  * *Develop*
@@ -23,6 +24,7 @@
 ## __Storage of Credentials:__
 
  As for the storage of credentials I plan on adding most of my personal credentials to the .gitignore for security reasons.
+ But where necessary I will provide the needed credentials in order for the project to work.
 
 ## __Refrence List__
  
