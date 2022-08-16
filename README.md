@@ -6,7 +6,7 @@
 
 ## __Project/Repository Diagram:__
 
- ![](ProjectDiagram323.jpg)
+ ![My Project Structure](ProjectDiagram323.jpg)
 
  As shown in the above image, I will make use of a Repository for each new Project which will then be added to the
  overarching Overview Repository.
@@ -22,7 +22,7 @@
 
 ## __Use of .gitignore:__
 
- Every project we are working on has sensitive information that cannot be accessed from the public. Therefore, we will use the .gitignore to ignore these sensitive files when adding to the repositories.
+ Every project I am working on has sensitive information that cannot be accessed from the public. Therefore, I will use the .gitignore to ignore these sensitive files when adding to the repositories.
 
 ## __Storage of Credentials:__
 
