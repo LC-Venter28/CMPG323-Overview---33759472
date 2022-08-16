@@ -8,6 +8,9 @@
 
  ![](ProjectDiagram323.jpg)
 
+ As shown in the above image, I will make use of a Repository for each new Project which will then be added to the
+ overarching Overview Repository.
+
 ## __Branching Strategy:__
 
  During this project I will make use of 2 branches.
