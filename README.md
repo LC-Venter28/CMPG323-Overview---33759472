@@ -3,6 +3,13 @@
 ## __Repositories used:__
 
  For the project I intend to make use of different repositories for each Project along with editing the Main Project repository accordingly.
+ The repositories will be as follows:
+  * CMPG323-Overview
+  * CMPG323-Project-2
+  * CMPG323-Project-3
+  * CMPG323-Project-4
+  * CMPG323-Project-5
+  * CMPG323-POE
 
 ## __Project/Repository Diagram:__
 
