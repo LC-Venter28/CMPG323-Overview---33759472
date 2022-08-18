@@ -28,7 +28,3 @@
 
  As for the storage of credentials I plan on adding most of my personal credentials to the .gitignore for security reasons.
  But where necessary I will provide the needed credentials in order for the project to work.
-
-## __Refrence List__
- 
- This is where I plan to add all the refrences I used in order to complete all of the tasks I need to.
