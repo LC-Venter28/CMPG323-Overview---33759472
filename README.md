@@ -10,6 +10,10 @@
   * CMPG323-Project-4
   * CMPG323-Project-5
   * CMPG323-POE
+  
+ *As for the repositories I used for each Project some differed from what I initially planned:*
+ *For Project 3 I used a forked repository instead of creating my own.*
+ *There is not a Repository for the PoE as it does not require it.*
 
 ## __Project/Repository Diagram:__
 
@@ -23,13 +27,17 @@
  During this project I will make use of 2 branches.
  The main will be used when I have finished certain aspects of the Projects in the Develop branch.
  
- * *Main*
- * *Develop*
+ * Main
+ * Develop
+ 
+ *Through the course of these Projects we had I struggled a lot with the implementing of my branching strategy.*
+ *Therefore, I did not make use of it with the finalizing of my Projects.*
   
 
 ## __Use of .gitignore:__
 
- Every project I am working on has sensitive information that cannot be accessed from the public. Therefore, I will use the .gitignore to ignore these sensitive files when adding to the repositories.
+Every project I am working on has sensitive information that cannot be accessed from the public. Therefore, I will use the .gitignore to ignore these sensitive files  when adding to the repositories.
+*At the end of these Projects I only needed to use the .gitignore in 2 of my 5 repositories namely: Project 2 and Project 3.*
 
 ## __Storage of Credentials:__
 
